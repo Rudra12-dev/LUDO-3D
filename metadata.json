@@ -1,0 +1,8 @@
+{
+  "name": "Remix Royal Ludo 3D",
+  "description": "Premium 3D Royal Cosmos Ludo board game featuring authentic rules, AI bots, multiplayer team mode, rich physics dice, and Web Audio soundscape.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
